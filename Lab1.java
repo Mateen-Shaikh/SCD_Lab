@@ -7,6 +7,7 @@ public class Lab1 {
 	double result = 3.1415 * radius * radius;
 	
 	System.out.println("The Area of Circle with radius "+radius+" is "+result);
+	System.out.println("");
 		
 	}
 }
